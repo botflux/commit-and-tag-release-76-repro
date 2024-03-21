@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.2.0](///compare/package-a1.1.0...package-a1.2.0) (2024-03-21)
+
+
+### Features
+
+* **package-a:** add another constant fe0ab16
+
 ## 1.1.0 (2024-03-21)
 
 

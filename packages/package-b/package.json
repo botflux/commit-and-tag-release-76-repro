@@ -1,0 +1,14 @@
+{
+  "name": "package-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "commit-and-tag-version": "^12.2.0"
+  },
+  "scripts": {
+    "version": "commit-and-tag-version --tag-prefix package-a --path ."
+  },
+  "author": "",
+  "license": "ISC"
+}

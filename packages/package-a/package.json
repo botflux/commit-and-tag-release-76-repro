@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "version": "commit-and-tag-version --tag-prefix package-a --path ."
+    "version": "commit-and-tag-version --tag-prefix package-a --path . --releaseCommitMessageFormat \"chore(release): {{currentTag}} [skip ci]\""
   },
   "author": "",
   "license": "ISC",
